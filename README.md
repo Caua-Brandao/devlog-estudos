@@ -7,7 +7,7 @@ Repositório criado para registrar minha evolução nos estudos e projetos.
 - C#
 - Git e GitHub
 - PIM
-- Rotina de estudos
+- Inglês
 
 ## Objetivo
 Manter constância, organização e histórico do meu progresso técnico.
